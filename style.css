@@ -74,10 +74,6 @@ main {
   cursor: pointer;
 }
 
-/* .card__img:hover {
-  filter: brightness(80%) saturate(0) invert(71%) sepia(77%) saturate(3211%) hue-rotate(149deg) brightness(103%) contrast(104%) opacity(80%);
-} */
-
 .card__title {
   font-size: 1.2rem;
   font-weight: 400;
@@ -144,7 +140,6 @@ main {
   font-size: 0.75rem;
   font-weight: 300;
   color: var(--white);
-  /* opacity: 1; */
   cursor: pointer;
 }
 
